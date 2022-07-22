@@ -7,7 +7,7 @@ body {
 }
 
 a {
-  color: inherit;
+  color: var(--linkColor);
   text-decoration: none;
   &:hover {
     text-decoration: underline;
