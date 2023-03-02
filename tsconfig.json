@@ -18,7 +18,7 @@
     "paths": {
       "@/components/*": ["components/*"],
       "@/lib/*": ["lib/*"],
-      "@/types/*": ["interfaces/*"],
+      "@/types/*": ["types/*"],
       "@/styles/*": ["styles/*"]
     }
   },
