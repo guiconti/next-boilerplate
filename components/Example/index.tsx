@@ -1,5 +1,5 @@
-import styles from "./Example.module.scss";
+import styles from "./Example.module.css";
 
 export default function Example() {
-  return <section className={styles.example}>Example</section>;
+	return <section className={styles.example}>Example</section>;
 }
