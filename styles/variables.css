@@ -1,0 +1,9 @@
+/* Spacing */
+:root {
+	--side-section-padding: 2rem;
+	--top-and-bottom-section-padding: 2rem;
+	--max-section-width: 73rem;
+	--mobile-side-section-padding: 1rem;
+	--mobile-top-and-bottom-section-padding: 2rem;
+	--max-width-for-pages: 1140px;
+}

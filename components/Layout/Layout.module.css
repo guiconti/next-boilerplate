@@ -1,0 +1,6 @@
+@import "../../styles/media.css";
+
+.main {
+	/* 100 view height - navbar's height - footer's height */
+	min-height: calc(100vh);
+}
